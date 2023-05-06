@@ -5,7 +5,7 @@ My personal repository of Unity tools. With a focus on usability and scalability
 ## Tools
 
 -   [Universal Object Pool](https://github.com/marcoormello/MarcoOrmelloUnityTools/UniversalObjectPool/README.md): A C# script for Unity that allows you to easily create and manage object pools.
--   [ObjectIndexer]https://github.com/marcoormello/MarcoOrmelloUnityTools/ObjectIndexer/README.md): A Unity script that allows you to index any object in a given asset folder and provides filtering capabilities.
+-   [ObjectIndexer](https://github.com/marcoormello/MarcoOrmelloUnityTools/ObjectIndexer/README.md): A Unity script that allows you to index any object in a given asset folder and provides filtering capabilities.
 
 ----------
 

@@ -1,6 +1,6 @@
-# ObjectIndexer
+# AssetIndexer
 
-The ObjectIndexer is a Unity script that allows you to index any object in a given asset folder and provides filtering capabilities. It can be used to quickly and easily filter a large collection of objects by specific criteria, allowing you to find the objects you need more quickly.
+The AssetIndexer is a Unity script that allows you to index any object in a given asset folder and provides filtering capabilities. It can be used to quickly and easily filter a large collection of objects by specific criteria, allowing you to find the objects you need more quickly.
 
 ## Getting Started
 
